@@ -8,9 +8,9 @@ uv run workshop-{n}/[file].py
 
 to see the code in action.
 
-Workshop 1 overview:
+## Workshop 1 overview:
 
-## Post generator
+### Post generator
 
 ```bash
 uv run workshop-1/post-generator.py --post
@@ -18,7 +18,7 @@ uv run workshop-1/post-generator.py --post
 
 Takes the company docs and generates a post using a free model from OpenRouter and posts it on Mastodon. Remove the --post flag if you do not want to publish the post. 
 
-## Keyword Responder
+### Keyword Responder
 
 ```bash
 uv run workshop-1/keyword-responder.py --post
