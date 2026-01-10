@@ -34,7 +34,7 @@ Please put the content for your workshop in a folder called workshop-[your works
 
 Please build upon the previous workshop's code, so we have one cohesive project by the last workshop.
 
-I have included reference docs for Emanon in this repo as well in the business-docs folder that you can use as well.
+I have included reference docs for Emanon (renamed version of Vector Lab) in this repo as well in the business-docs folder that you can use as well.
 
 Also please READ and TEST your code so that you know what it is doing and actually works, this will be used as ground truth for the other TAs, so any issues could derail things very quickly.
 
